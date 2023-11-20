@@ -1,2 +1,3 @@
-require("lua/locater")
+require("locater")
+require("banana")
 print("plugin/locate.lua")
