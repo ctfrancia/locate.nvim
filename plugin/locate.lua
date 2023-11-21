@@ -1,3 +1,4 @@
-require("locater")
-require("banana")
-print("plugin/locate.lua")
+-- this page gets automatically loaded by the plugin at startup
+--  require("locater")
+--  require("util")
+--  require("banana")
